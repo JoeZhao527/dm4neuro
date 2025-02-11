@@ -2,7 +2,7 @@
 This repository contains resources and a curated list of papers from our survey on diffusion models in computational neuroimaging.
 
 ## 📄 Survey Paper
-[**Diffusion Models for Computational Neuroimaging: A Survey**](https://arxiv.org/abs/XXXX.XXXXX)
+[**Diffusion Models for Computational Neuroimaging: A Survey**](https://arxiv.org/pdf/2502.06552)
 
 **Authors**:  
 Haokai Zhao, Haowei Lou, Lina Yao, Wei Peng, Ehsan Adeli, Kilian M. Pohl, Yu Zhang  
